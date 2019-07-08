@@ -1,4 +1,4 @@
-# homographs
+# Homographs
 Creates a list of Chechen homographs
 
 This is a beta version of another project we are working on in Chechen Academy of Sciences.
